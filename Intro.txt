@@ -1,0 +1,11 @@
+Security
+
+    This is the practice of ensurin confidentiality, integrity, and availability of information by protecting data from unauthorised access.
+
+Benefits of Security
+-Protects the data from internal or external threats.
+-Meet regulatory compliance.(avoid fines and audit)
+-reduces expenses.
+-Maintaining brand trust.
+
+What do Security analysts do?
